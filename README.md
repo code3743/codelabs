@@ -34,3 +34,6 @@ The following screenshots demonstrate the correct execution and successful compl
 
 ### 6. VIRTUAL THREADS
 ![Evidence 6 - Virtual Threads](/images/6.png)
+
+### 7. GRAALVM Optimization
+![Evidence 7 - GRAALVM Optimization](/images/7.png)
