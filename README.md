@@ -37,3 +37,9 @@ The following screenshots demonstrate the correct execution and successful compl
 
 ### 7. GRAALVM Optimization
 ![Evidence 7 - GRAALVM Optimization](/images/7.png)
+
+### 8. Kubernetes Local - Basic Level
+![Evidence 8 - Kubernetes Local - Basic Level](/images/8.png)
+
+### 9. Kubernetes Local - Intermediate Level
+![Evidence 9 - Kubernetes Local - Intermediate Level](/images/9.png)
