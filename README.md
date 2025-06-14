@@ -43,3 +43,6 @@ The following screenshots demonstrate the correct execution and successful compl
 
 ### 9. Kubernetes Local - Intermediate Level
 ![Evidence 9 - Kubernetes Local - Intermediate Level](/images/9.png)
+
+### 10. Kubernetes GCP - Basic Level
+![Evidence 10 - Kubernetes GCP - Basic Level](/images/10.png)
