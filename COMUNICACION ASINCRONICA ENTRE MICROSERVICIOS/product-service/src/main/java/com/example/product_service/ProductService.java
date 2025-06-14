@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.logging.Logger;
 @Service
 public class ProductService {
-Logger logger = Logger.getLogger(getClass().getName());
+    final Logger logger = Logger.getLogger(getClass().getName());
     private final AmqpTemplate customRabbitTemplate;
 
     public ProductService(AmqpTemplate customRabbitTemplate) {
