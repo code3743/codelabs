@@ -1,17 +1,31 @@
-# Codelabs for Software Development 3
+# Codelabs - Software Development 3 (DS3)
 
-This repository contains the codelabs for the course **Software Development 3**. All exercises and examples are developed in class and are intended to help students learn key concepts such as:
+This repository contains all the **codelabs developed during the Software Development 3 (DS3)** course. Each exercise was created and tested in class, with the goal of strengthening knowledge in:
 
-- Spring Boot
-- Clean Architecture
-- Testing
-- Microservices
+* **Spring Boot**
+* **Clean Architecture**
+* **Testing**
+* **Microservices**
 
-Use these codelabs as a reference and practice material to reinforce your understanding of modern software development practices.
+All codelabs are functional and serve as practical implementations of the concepts learned throughout the course. Each directory in this repository corresponds to a specific codelab, and contains its related Spring projects.
 
-## Evidences
+## Evidence of Completion
 
-![Evidences 1 - SPRING BOOT 1](/images/1.png)
-![Evidences 2 - SPRING BOOT 2](/images/2.png)
-![Evidences 3 - synchronous communication](/images/3.png)
-![Evidences 4 - asynchronous communication](/images/4.png)
+The following screenshots demonstrate the correct execution and successful completion of each codelab:
+
+### 1. Spring Boot - Part 1
+
+![Evidence 1 - SPRING BOOT 1](/images/1.png)
+
+### 2. Spring Boot - Part 2
+
+![Evidence 2 - SPRING BOOT 2](/images/2.png)
+
+### 3. Synchronous Communication
+
+![Evidence 3 - Synchronous Communication](/images/3.png)
+
+### 4. Asynchronous Communication
+
+![Evidence 4 - Asynchronous Communication](/images/4.png)
+
