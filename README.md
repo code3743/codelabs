@@ -13,3 +13,4 @@ Use these codelabs as a reference and practice material to reinforce your unders
 
 ![Evidences 1 - SPRING BOOT 1](/images/1.png)
 ![Evidences 2 - SPRING BOOT 2](/images/2.png)
+![Evidences 3 - synchronous communication](/images/3.png)
