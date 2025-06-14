@@ -31,3 +31,6 @@ The following screenshots demonstrate the correct execution and successful compl
 
 ### 5. CI/CD with GitHub Actions
 ![Evidence 5 - CI/CD with GitHub Actions](/images/5.png)
+
+### 6. VIRTUAL THREADS
+![Evidence 6 - Virtual Threads](/images/6.png)
