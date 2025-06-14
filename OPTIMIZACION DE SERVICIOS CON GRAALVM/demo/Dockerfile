@@ -1,8 +1,8 @@
 FROM debian:bookworm-slim
 
 # Variables opcionales
-ENV LANG C.UTF-8
-ENV LC_ALL C.UTF-8
+ENV LANG=C.UTF-8
+ENV LC_ALL=C.UTF-8
 
 # Solo instalamos dependencias mínimas
 RUN apt-get update && \
