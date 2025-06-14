@@ -29,3 +29,5 @@ The following screenshots demonstrate the correct execution and successful compl
 
 ![Evidence 4 - Asynchronous Communication](/images/4.png)
 
+### 5. CI/CD with GitHub Actions
+![Evidence 5 - CI/CD with GitHub Actions](/images/5.png)
