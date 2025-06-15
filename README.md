@@ -13,6 +13,9 @@ All codelabs are functional and serve as practical implementations of the concep
 
 The following screenshots demonstrate the correct execution and successful completion of each codelab:
 
+### 0. ADD + Clean Architecture
+![Evidence 0 - ADD + Clean Architecture](/images/0.png)
+
 ### 1. Spring Boot - Part 1
 ![Evidence 1 - SPRING BOOT 1](/images/1.png)
 
