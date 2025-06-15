@@ -13,6 +13,9 @@ All codelabs are functional and serve as practical implementations of the concep
 
 The following screenshots demonstrate the correct execution and successful completion of each codelab:
 
+### Provisioning infrastructure on Amazon EC2 for development
+![Evidence - Provisioning infrastructure on Amazon EC2 for development](/images/image.png)
+
 ### 0. ADD + Clean Architecture
 ![Evidence 0 - ADD + Clean Architecture](/images/0.png)
 
