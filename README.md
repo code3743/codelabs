@@ -38,8 +38,8 @@ The following screenshots demonstrate the correct execution and successful compl
 ![Evidence 6 - CI/CD with GitHub Actions](/images/6.png)
 
 ### 7. VIRTUAL THREADS
-![Evidence 7 - Virtual Threads](/images/7.png)
-
+![Evidence 7 - Virtual Threads](/images/7.2.png)
+![Evidence 7 - Virtual Threads](/images/7.2.png)
 ### 8. GRAALVM Optimization
 ![Evidence 8 - GRAALVM Optimization](/images/8.png)
 
