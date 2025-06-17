@@ -39,7 +39,7 @@ The following screenshots demonstrate the correct execution and successful compl
 
 ### 7. VIRTUAL THREADS
 ![Evidence 7 - Virtual Threads](/images/7.2.png)
-![Evidence 7 - Virtual Threads](/images/7.2.png)
+![Evidence 7 - Virtual Threads](/images/7.1.png)
 ### 8. GRAALVM Optimization
 ![Evidence 8 - GRAALVM Optimization](/images/8.png)
 
